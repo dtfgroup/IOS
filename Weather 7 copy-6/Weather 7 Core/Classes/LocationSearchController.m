@@ -25,7 +25,7 @@
 @synthesize locationManager;
 
 
-// #define WEATHERUNDERGROUND_API_KEY @"Your API Key Here"
+#define WEATHERUNDERGROUND_API_KEY @"8b478405c43e59bd"
 
 #ifndef WEATHERUNDERGROUND_API_KEY
 #error "Must define WeatherUnderground API key. Please visit http://www.wunderground.com/weather/api/ to signup"
