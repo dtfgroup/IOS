@@ -1,0 +1,1280 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* LocalWeatherAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1468, 698}}";
+			sepNavSelRange = "{107, 9}";
+			sepNavVisRange = "{0, 505}";
+		};
+	};
+	1D3623250D0F684500981E51 /* LocalWeatherAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1120}}";
+			sepNavSelRange = "{288, 0}";
+			sepNavVisRange = "{0, 2242}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* LocalWeather */ = {
+		activeExec = 0;
+		executables = (
+			8FDD16D3122C2C7100AA6957 /* LocalWeather */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* LocalWeatherViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1466, 860}}";
+			sepNavSelRange = "{862, 0}";
+			sepNavVisRange = "{0, 862}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1466, 1442}}";
+			sepNavSelRange = "{646, 0}";
+			sepNavVisRange = "{1257, 2038}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 8FDD16D3122C2C7100AA6957 /* LocalWeather */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* LocalWeather */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* LocalWeather */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 8FDD16E4122C2C7900AA6957 /* Code sense */;
+		executables = (
+			8FDD16D3122C2C7100AA6957 /* LocalWeather */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1288,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					1068,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					1030,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1251,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 307474253;
+			PBXWorkspaceStateSaveDate = 307474253;
+		};
+		perUserProjectItems = {
+			8F293868125251D70062F427 = 8F293868125251D70062F427 /* PBXTextBookmark */;
+			8F293AB51252B8EA0062F427 = 8F293AB51252B8EA0062F427 /* PBXTextBookmark */;
+			8F293AB61252B8EA0062F427 = 8F293AB61252B8EA0062F427 /* PBXTextBookmark */;
+			8F293ABA1252B9340062F427 = 8F293ABA1252B9340062F427 /* PBXTextBookmark */;
+			8F293ABB1252B9340062F427 = 8F293ABB1252B9340062F427 /* PBXTextBookmark */;
+			8F293AD61252BF7A0062F427 = 8F293AD61252BF7A0062F427 /* PBXTextBookmark */;
+			8F875A0412516BD800B842AF = 8F875A0412516BD800B842AF /* PBXTextBookmark */;
+			8F875A0512516BD800B842AF = 8F875A0512516BD800B842AF /* PBXTextBookmark */;
+			8F875A0612516BD800B842AF = 8F875A0612516BD800B842AF /* PBXTextBookmark */;
+			8F875A1A12516C9700B842AF = 8F875A1A12516C9700B842AF /* PBXTextBookmark */;
+			8FBC90CB122C658000C12E27 = 8FBC90CB122C658000C12E27 /* PBXTextBookmark */;
+			8FBC90CC122C658000C12E27 = 8FBC90CC122C658000C12E27 /* PBXTextBookmark */;
+			8FBC90CE122C658000C12E27 = 8FBC90CE122C658000C12E27 /* PBXTextBookmark */;
+			8FBC90CF122C658000C12E27 = 8FBC90CF122C658000C12E27 /* PBXTextBookmark */;
+			8FBC90D0122C658000C12E27 = 8FBC90D0122C658000C12E27 /* PBXTextBookmark */;
+			8FBC90D1122C658000C12E27 = 8FBC90D1122C658000C12E27 /* PBXTextBookmark */;
+			8FBC90D4122C658000C12E27 = 8FBC90D4122C658000C12E27 /* PBXTextBookmark */;
+			8FBC911B122C66D900C12E27 = 8FBC911B122C66D900C12E27 /* PBXTextBookmark */;
+			8FBC911C122C66D900C12E27 = 8FBC911C122C66D900C12E27 /* PBXTextBookmark */;
+			8FBC911D122C66D900C12E27 = 8FBC911D122C66D900C12E27 /* PBXTextBookmark */;
+			8FBC911E122C66D900C12E27 = 8FBC911E122C66D900C12E27 /* PBXTextBookmark */;
+			8FD506AA124820B900B36C6F = 8FD506AA124820B900B36C6F /* PBXTextBookmark */;
+			8FD506B81248215700B36C6F = 8FD506B81248215700B36C6F /* PBXTextBookmark */;
+			8FEA437D1253AF57002D85A5 /* PBXTextBookmark */ = 8FEA437D1253AF57002D85A5 /* PBXTextBookmark */;
+			8FEA437E1253AF57002D85A5 /* PBXTextBookmark */ = 8FEA437E1253AF57002D85A5 /* PBXTextBookmark */;
+			8FEA437F1253AF57002D85A5 /* PBXTextBookmark */ = 8FEA437F1253AF57002D85A5 /* PBXTextBookmark */;
+			8FEA43801253AF57002D85A5 /* PBXTextBookmark */ = 8FEA43801253AF57002D85A5 /* PBXTextBookmark */;
+			8FEA43811253AF57002D85A5 /* PBXTextBookmark */ = 8FEA43811253AF57002D85A5 /* PBXTextBookmark */;
+			8FEA438D1253C06A002D85A5 /* PBXTextBookmark */ = 8FEA438D1253C06A002D85A5 /* PBXTextBookmark */;
+			8FEA438E1253C06A002D85A5 /* PBXTextBookmark */ = 8FEA438E1253C06A002D85A5 /* PBXTextBookmark */;
+			8FEA438F1253C06A002D85A5 /* PBXTextBookmark */ = 8FEA438F1253C06A002D85A5 /* PBXTextBookmark */;
+			8FEA43901253C06A002D85A5 /* PBXTextBookmark */ = 8FEA43901253C06A002D85A5 /* PBXTextBookmark */;
+			8FEA43911253C06A002D85A5 /* PBXTextBookmark */ = 8FEA43911253C06A002D85A5 /* PBXTextBookmark */;
+			8FEA43AD1253C196002D85A5 /* PBXTextBookmark */ = 8FEA43AD1253C196002D85A5 /* PBXTextBookmark */;
+			8FEA43AE1253C196002D85A5 /* PBXTextBookmark */ = 8FEA43AE1253C196002D85A5 /* PBXTextBookmark */;
+			8FEA43AF1253C196002D85A5 /* PBXTextBookmark */ = 8FEA43AF1253C196002D85A5 /* PBXTextBookmark */;
+			8FEA43B61253C19A002D85A5 /* PBXTextBookmark */ = 8FEA43B61253C19A002D85A5 /* PBXTextBookmark */;
+			8FEA43D61253C429002D85A5 /* PBXTextBookmark */ = 8FEA43D61253C429002D85A5 /* PBXTextBookmark */;
+			8FEA43D71253E0FD002D85A5 /* PBXTextBookmark */ = 8FEA43D71253E0FD002D85A5 /* PBXTextBookmark */;
+			8FEA43D81253E103002D85A5 /* PBXTextBookmark */ = 8FEA43D81253E103002D85A5 /* PBXTextBookmark */;
+			8FEA43D91253E12F002D85A5 /* PBXTextBookmark */ = 8FEA43D91253E12F002D85A5 /* PBXTextBookmark */;
+			8FEA43DA1253E12F002D85A5 /* PBXTextBookmark */ = 8FEA43DA1253E12F002D85A5 /* PBXTextBookmark */;
+			8FEA43DB1253E12F002D85A5 /* PBXTextBookmark */ = 8FEA43DB1253E12F002D85A5 /* PBXTextBookmark */;
+			8FEA43DE1253E19D002D85A5 /* PBXTextBookmark */ = 8FEA43DE1253E19D002D85A5 /* PBXTextBookmark */;
+			8FEA43DF1253E19D002D85A5 /* PBXTextBookmark */ = 8FEA43DF1253E19D002D85A5 /* PBXTextBookmark */;
+			8FEA43E01253E19D002D85A5 /* PBXTextBookmark */ = 8FEA43E01253E19D002D85A5 /* PBXTextBookmark */;
+			8FEA43E91253E1C6002D85A5 /* PBXTextBookmark */ = 8FEA43E91253E1C6002D85A5 /* PBXTextBookmark */;
+			8FEA43F11253E1D7002D85A5 /* PBXTextBookmark */ = 8FEA43F11253E1D7002D85A5 /* PBXTextBookmark */;
+			8FEA43F21253E1D7002D85A5 /* PBXTextBookmark */ = 8FEA43F21253E1D7002D85A5 /* PBXTextBookmark */;
+			8FEA44011253E234002D85A5 /* PBXTextBookmark */ = 8FEA44011253E234002D85A5 /* PBXTextBookmark */;
+			8FEA44021253E234002D85A5 /* PBXTextBookmark */ = 8FEA44021253E234002D85A5 /* PBXTextBookmark */;
+			8FEA44031253E234002D85A5 /* PBXTextBookmark */ = 8FEA44031253E234002D85A5 /* PBXTextBookmark */;
+			8FEA44041253E234002D85A5 /* PBXTextBookmark */ = 8FEA44041253E234002D85A5 /* PBXTextBookmark */;
+			8FEA440A1253E23D002D85A5 /* PBXTextBookmark */ = 8FEA440A1253E23D002D85A5 /* PBXTextBookmark */;
+			8FEA440B1253E23D002D85A5 /* PBXTextBookmark */ = 8FEA440B1253E23D002D85A5 /* PBXTextBookmark */;
+			8FEA440D1253E240002D85A5 /* PBXTextBookmark */ = 8FEA440D1253E240002D85A5 /* PBXTextBookmark */;
+			8FEA44131253E28F002D85A5 /* PBXTextBookmark */ = 8FEA44131253E28F002D85A5 /* PBXTextBookmark */;
+			8FEA44181253E2D7002D85A5 /* PBXTextBookmark */ = 8FEA44181253E2D7002D85A5 /* PBXTextBookmark */;
+			8FEA44191253E2D7002D85A5 /* PBXTextBookmark */ = 8FEA44191253E2D7002D85A5 /* PBXTextBookmark */;
+			8FEA441A1253E2D7002D85A5 /* PBXTextBookmark */ = 8FEA441A1253E2D7002D85A5 /* PBXTextBookmark */;
+			8FEA441B1253E2D7002D85A5 /* PBXTextBookmark */ = 8FEA441B1253E2D7002D85A5 /* PBXTextBookmark */;
+			8FEA441F1253E305002D85A5 /* PBXTextBookmark */ = 8FEA441F1253E305002D85A5 /* PBXTextBookmark */;
+			8FEA44201253E305002D85A5 /* PBXTextBookmark */ = 8FEA44201253E305002D85A5 /* PBXTextBookmark */;
+			8FEA44211253E305002D85A5 /* PBXTextBookmark */ = 8FEA44211253E305002D85A5 /* PBXTextBookmark */;
+			8FEA442C1253E33D002D85A5 /* PBXTextBookmark */ = 8FEA442C1253E33D002D85A5 /* PBXTextBookmark */;
+			8FEA442D1253E33D002D85A5 /* PBXTextBookmark */ = 8FEA442D1253E33D002D85A5 /* PBXTextBookmark */;
+			8FEA442E1253E33D002D85A5 /* PBXTextBookmark */ = 8FEA442E1253E33D002D85A5 /* PBXTextBookmark */;
+			8FEA44301253E4A8002D85A5 /* PBXTextBookmark */ = 8FEA44301253E4A8002D85A5 /* PBXTextBookmark */;
+			8FEA44311253E4A8002D85A5 /* PBXTextBookmark */ = 8FEA44311253E4A8002D85A5 /* PBXTextBookmark */;
+			8FEA44321253E4A8002D85A5 /* PBXTextBookmark */ = 8FEA44321253E4A8002D85A5 /* PBXTextBookmark */;
+			8FEA44331253E4A8002D85A5 /* PBXTextBookmark */ = 8FEA44331253E4A8002D85A5 /* PBXTextBookmark */;
+			8FEA44341253E4BC002D85A5 /* PBXTextBookmark */ = 8FEA44341253E4BC002D85A5 /* PBXTextBookmark */;
+			8FEA44351253E4BC002D85A5 /* PBXTextBookmark */ = 8FEA44351253E4BC002D85A5 /* PBXTextBookmark */;
+			8FEA44361253E4BC002D85A5 /* PBXTextBookmark */ = 8FEA44361253E4BC002D85A5 /* PBXTextBookmark */;
+			8FEA44371253E4E0002D85A5 /* PBXTextBookmark */ = 8FEA44371253E4E0002D85A5 /* PBXTextBookmark */;
+			8FEA44381253E4E0002D85A5 /* PBXTextBookmark */ = 8FEA44381253E4E0002D85A5 /* PBXTextBookmark */;
+			8FEA44391253E4E0002D85A5 /* PBXTextBookmark */ = 8FEA44391253E4E0002D85A5 /* PBXTextBookmark */;
+			8FEA443E1253F84E002D85A5 /* PBXTextBookmark */ = 8FEA443E1253F84E002D85A5 /* PBXTextBookmark */;
+			8FEA443F1253F84E002D85A5 /* PBXTextBookmark */ = 8FEA443F1253F84E002D85A5 /* PBXTextBookmark */;
+			8FEA44401253F84E002D85A5 /* XCBuildMessageTextBookmark */ = 8FEA44401253F84E002D85A5 /* XCBuildMessageTextBookmark */;
+			8FEA44411253F84E002D85A5 /* PBXTextBookmark */ = 8FEA44411253F84E002D85A5 /* PBXTextBookmark */;
+			8FEA44431253F850002D85A5 /* XCBuildMessageTextBookmark */ = 8FEA44431253F850002D85A5 /* XCBuildMessageTextBookmark */;
+			8FEA44441253F850002D85A5 /* PBXTextBookmark */ = 8FEA44441253F850002D85A5 /* PBXTextBookmark */;
+			8FEA44451253F860002D85A5 /* PBXTextBookmark */ = 8FEA44451253F860002D85A5 /* PBXTextBookmark */;
+			8FEA44461253F860002D85A5 /* PBXTextBookmark */ = 8FEA44461253F860002D85A5 /* PBXTextBookmark */;
+			8FEA44471253F860002D85A5 /* PBXTextBookmark */ = 8FEA44471253F860002D85A5 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8FDD16E3122C2C7900AA6957 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1468, 698}}";
+			sepNavSelRange = "{97, 0}";
+			sepNavVisRange = "{0, 362}";
+		};
+	};
+	8F293868125251D70062F427 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FBC90C0122C655100C12E27 /* CXMLNode.m */;
+		name = "CXMLNode.m: 101";
+		rLen = 0;
+		rLoc = 2828;
+		rType = 0;
+		vrLen = 1444;
+		vrLoc = 2119;
+	};
+	8F293A0B1252933E0062F427 /* ICB_WeatherConditions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1466, 883}}";
+			sepNavSelRange = "{546, 0}";
+			sepNavVisRange = "{0, 551}";
+		};
+	};
+	8F293A0C1252933E0062F427 /* ICB_WeatherConditions.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1811, 860}}";
+			sepNavSelRange = "{548, 36}";
+			sepNavVisRange = "{0, 2001}";
+		};
+	};
+	8F293AB51252B8EA0062F427 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0C1252933E0062F427 /* ICB_WeatherConditions.m */;
+		name = "ICB_WeatherConditions.m: 29";
+		rLen = 0;
+		rLoc = 1583;
+		rType = 0;
+		vrLen = 1885;
+		vrLoc = 0;
+	};
+	8F293AB61252B8EA0062F427 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		name = "LocalWeatherViewController.m: 118";
+		rLen = 41;
+		rLoc = 3296;
+		rType = 0;
+		vrLen = 1205;
+		vrLoc = 2350;
+	};
+	8F293ABA1252B9340062F427 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* LocalWeatherViewController.h */;
+		name = "LocalWeatherViewController.h: 18";
+		rLen = 0;
+		rLoc = 658;
+		rType = 0;
+		vrLen = 670;
+		vrLoc = 0;
+	};
+	8F293ABB1252B9340062F427 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0B1252933E0062F427 /* ICB_WeatherConditions.h */;
+		name = "ICB_WeatherConditions.h: 8";
+		rLen = 0;
+		rLoc = 145;
+		rType = 0;
+		vrLen = 551;
+		vrLoc = 0;
+	};
+	8F293AD61252BF7A0062F427 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		name = "LocalWeatherViewController.m: 14";
+		rLen = 0;
+		rLoc = 298;
+		rType = 0;
+		vrLen = 1835;
+		vrLoc = 0;
+	};
+	8F875A0412516BD800B842AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FBC90B8122C655100C12E27 /* CXMLElement.m */;
+		name = "CXMLElement.m: 82";
+		rLen = 0;
+		rLoc = 2832;
+		rType = 0;
+		vrLen = 1751;
+		vrLoc = 1602;
+	};
+	8F875A0512516BD800B842AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FBC90B7122C655100C12E27 /* CXMLElement.h */;
+		name = "CXMLElement.h: 51";
+		rLen = 0;
+		rLoc = 1909;
+		rType = 0;
+		vrLen = 1909;
+		vrLoc = 0;
+	};
+	8F875A0612516BD800B842AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FBC90BF122C655100C12E27 /* CXMLNode.h */;
+		name = "CXMLNode.h: 84";
+		rLen = 0;
+		rLoc = 2817;
+		rType = 0;
+		vrLen = 1578;
+		vrLoc = 1239;
+	};
+	8F875A1A12516C9700B842AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* LocalWeatherAppDelegate.m */;
+		name = "LocalWeatherAppDelegate.m: 14";
+		rLen = 0;
+		rLoc = 288;
+		rType = 0;
+		vrLen = 1963;
+		vrLoc = 0;
+	};
+	8FBC90AF122C655100C12E27 /* CXMLDocument_PrivateExtensions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1590, 856}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1534}";
+		};
+	};
+	8FBC90B0122C655100C12E27 /* CXMLDocument_PrivateExtensions.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1590, 856}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1658}";
+		};
+	};
+	8FBC90B1122C655100C12E27 /* CXMLDocument.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1590, 938}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2567}";
+		};
+	};
+	8FBC90B2122C655100C12E27 /* CXMLDocument.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1357, 3584}}";
+			sepNavSelRange = "{5634, 28}";
+			sepNavVisRange = "{4818, 1939}";
+			sepNavWindowFrame = "{{78, 0}, {1416, 1178}}";
+		};
+	};
+	8FBC90B3122C655100C12E27 /* CXMLElement_CreationExtensions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1590, 856}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1437}";
+		};
+	};
+	8FBC90B4122C655100C12E27 /* CXMLElement_CreationExtensions.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1590, 856}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2128}";
+		};
+	};
+	8FBC90B5122C655100C12E27 /* CXMLElement_ElementTreeExtensions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1590, 856}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1408}";
+		};
+	};
+	8FBC90B6122C655100C12E27 /* CXMLElement_ElementTreeExtensions.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1590, 856}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1640}";
+		};
+	};
+	8FBC90B7122C655100C12E27 /* CXMLElement.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1469, 777}}";
+			sepNavSelRange = "{1909, 0}";
+			sepNavVisRange = "{0, 1909}";
+			sepNavWindowFrame = "{{78, 0}, {1416, 1178}}";
+		};
+	};
+	8FBC90B8122C655100C12E27 /* CXMLElement.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1469, 3990}}";
+			sepNavSelRange = "{2832, 0}";
+			sepNavVisRange = "{1602, 1751}";
+		};
+	};
+	8FBC90BB122C655100C12E27 /* CXMLNode_PrivateExtensions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1590, 856}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1572}";
+		};
+	};
+	8FBC90BF122C655100C12E27 /* CXMLNode.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1469, 1176}}";
+			sepNavSelRange = "{2817, 0}";
+			sepNavVisRange = "{1239, 1578}";
+		};
+	};
+	8FBC90C0122C655100C12E27 /* CXMLNode.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1469, 6075}}";
+			sepNavSelRange = "{2828, 0}";
+			sepNavVisRange = "{2119, 1444}";
+		};
+	};
+	8FBC90C1122C655100C12E27 /* TouchXML.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1590, 856}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1523}";
+		};
+	};
+	8FBC90CB122C658000C12E27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FBC90AF122C655100C12E27 /* CXMLDocument_PrivateExtensions.h */;
+		name = "CXMLDocument_PrivateExtensions.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1534;
+		vrLoc = 0;
+	};
+	8FBC90CC122C658000C12E27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FBC90B0122C655100C12E27 /* CXMLDocument_PrivateExtensions.m */;
+		name = "CXMLDocument_PrivateExtensions.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1658;
+		vrLoc = 0;
+	};
+	8FBC90CE122C658000C12E27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FBC90B2122C655100C12E27 /* CXMLDocument.m */;
+		name = "CXMLDocument.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2155;
+		vrLoc = 0;
+	};
+	8FBC90CF122C658000C12E27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FBC90B3122C655100C12E27 /* CXMLElement_CreationExtensions.h */;
+		name = "CXMLElement_CreationExtensions.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1437;
+		vrLoc = 0;
+	};
+	8FBC90D0122C658000C12E27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FBC90B4122C655100C12E27 /* CXMLElement_CreationExtensions.m */;
+		name = "CXMLElement_CreationExtensions.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2128;
+		vrLoc = 0;
+	};
+	8FBC90D1122C658000C12E27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FBC90B5122C655100C12E27 /* CXMLElement_ElementTreeExtensions.h */;
+		name = "CXMLElement_ElementTreeExtensions.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1408;
+		vrLoc = 0;
+	};
+	8FBC90D4122C658000C12E27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FBC90C1122C655100C12E27 /* TouchXML.h */;
+		name = "TouchXML.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1523;
+		vrLoc = 0;
+	};
+	8FBC90DD122C660800C12E27 /* CXMLDocument_CreationExtensions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1590, 856}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2068}";
+		};
+	};
+	8FBC911B122C66D900C12E27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FBC90B1122C655100C12E27 /* CXMLDocument.h */;
+		name = "CXMLDocument.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2567;
+		vrLoc = 0;
+	};
+	8FBC911C122C66D900C12E27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FBC90B6122C655100C12E27 /* CXMLElement_ElementTreeExtensions.m */;
+		name = "CXMLElement_ElementTreeExtensions.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1640;
+		vrLoc = 0;
+	};
+	8FBC911D122C66D900C12E27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FBC90BB122C655100C12E27 /* CXMLNode_PrivateExtensions.h */;
+		name = "CXMLNode_PrivateExtensions.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1572;
+		vrLoc = 0;
+	};
+	8FBC911E122C66D900C12E27 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FBC90DD122C660800C12E27 /* CXMLDocument_CreationExtensions.h */;
+		name = "CXMLDocument_CreationExtensions.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2068;
+		vrLoc = 0;
+	};
+	8FD506AA124820B900B36C6F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 6";
+		rLen = 0;
+		rLoc = 97;
+		rType = 0;
+		vrLen = 362;
+		vrLoc = 0;
+	};
+	8FD506B81248215700B36C6F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* LocalWeatherAppDelegate.h */;
+		name = "LocalWeatherAppDelegate.h: 6";
+		rLen = 9;
+		rLoc = 107;
+		rType = 0;
+		vrLen = 505;
+		vrLoc = 0;
+	};
+	8FDD16D3122C2C7100AA6957 /* LocalWeather */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = LocalWeather;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	8FDD16E3122C2C7900AA6957 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8FDD16E4122C2C7900AA6957 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8FEA437D1253AF57002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		name = "LocalWeatherViewController.m: 13";
+		rLen = 0;
+		rLoc = 282;
+		rType = 0;
+		vrLen = 1835;
+		vrLoc = 0;
+	};
+	8FEA437E1253AF57002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* LocalWeatherViewController.h */;
+		name = "LocalWeatherViewController.h: 18";
+		rLen = 0;
+		rLoc = 658;
+		rType = 0;
+		vrLen = 670;
+		vrLoc = 0;
+	};
+	8FEA437F1253AF57002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0C1252933E0062F427 /* ICB_WeatherConditions.m */;
+		name = "ICB_WeatherConditions.m: 29";
+		rLen = 0;
+		rLoc = 1583;
+		rType = 0;
+		vrLen = 1885;
+		vrLoc = 0;
+	};
+	8FEA43801253AF57002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0B1252933E0062F427 /* ICB_WeatherConditions.h */;
+		name = "ICB_WeatherConditions.h: 8";
+		rLen = 0;
+		rLoc = 145;
+		rType = 0;
+		vrLen = 551;
+		vrLoc = 0;
+	};
+	8FEA43811253AF57002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0B1252933E0062F427 /* ICB_WeatherConditions.h */;
+		name = "ICB_WeatherConditions.h: 8";
+		rLen = 0;
+		rLoc = 145;
+		rType = 0;
+		vrLen = 551;
+		vrLoc = 0;
+	};
+	8FEA438D1253C06A002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0C1252933E0062F427 /* ICB_WeatherConditions.m */;
+		name = "ICB_WeatherConditions.m: 10";
+		rLen = 1;
+		rLoc = 200;
+		rType = 0;
+		vrLen = 1885;
+		vrLoc = 0;
+	};
+	8FEA438E1253C06A002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0B1252933E0062F427 /* ICB_WeatherConditions.h */;
+		name = "ICB_WeatherConditions.h: 11";
+		rLen = 0;
+		rLoc = 249;
+		rType = 0;
+		vrLen = 551;
+		vrLoc = 0;
+	};
+	8FEA438F1253C06A002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		name = "LocalWeatherViewController.m: 39";
+		rLen = 0;
+		rLoc = 631;
+		rType = 0;
+		vrLen = 2237;
+		vrLoc = 858;
+	};
+	8FEA43901253C06A002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* LocalWeatherViewController.h */;
+		name = "LocalWeatherViewController.h: 2";
+		rLen = 857;
+		rLoc = 3;
+		rType = 0;
+		vrLen = 649;
+		vrLoc = 0;
+	};
+	8FEA43911253C06A002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* LocalWeatherViewController.h */;
+		name = "LocalWeatherViewController.h: 1";
+		rLen = 860;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 649;
+		vrLoc = 0;
+	};
+	8FEA43AD1253C196002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* LocalWeatherViewController.h */;
+		name = "LocalWeatherViewController.h: 1";
+		rLen = 860;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 649;
+		vrLoc = 0;
+	};
+	8FEA43AE1253C196002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		name = "LocalWeatherViewController.m: 39";
+		rLen = 0;
+		rLoc = 631;
+		rType = 0;
+		vrLen = 2237;
+		vrLoc = 858;
+	};
+	8FEA43AF1253C196002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		name = "LocalWeatherViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2051;
+		vrLoc = 0;
+	};
+	8FEA43B61253C19A002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		name = "LocalWeatherViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2051;
+		vrLoc = 0;
+	};
+	8FEA43D61253C429002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		name = "LocalWeatherViewController.m: 1";
+		rLen = 3343;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1995;
+		vrLoc = 1001;
+	};
+	8FEA43D71253E0FD002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		name = "LocalWeatherViewController.m: 51";
+		rLen = 0;
+		rLoc = 1885;
+		rType = 0;
+		vrLen = 2472;
+		vrLoc = 298;
+	};
+	8FEA43D81253E103002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		name = "LocalWeatherViewController.m: 51";
+		rLen = 0;
+		rLoc = 1884;
+		rType = 0;
+		vrLen = 2471;
+		vrLoc = 298;
+	};
+	8FEA43D91253E12F002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		name = "LocalWeatherViewController.m: 17";
+		rLen = 0;
+		rLoc = 447;
+		rType = 0;
+		vrLen = 2485;
+		vrLoc = 298;
+	};
+	8FEA43DA1253E12F002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* LocalWeatherViewController.h */;
+		name = "LocalWeatherViewController.h: 1";
+		rLen = 860;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 649;
+		vrLoc = 0;
+	};
+	8FEA43DB1253E12F002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* LocalWeatherViewController.h */;
+		name = "LocalWeatherViewController.h: 21";
+		rLen = 0;
+		rLoc = 855;
+		rType = 0;
+		vrLen = 734;
+		vrLoc = 0;
+	};
+	8FEA43DE1253E19D002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* LocalWeatherViewController.h */;
+		name = "LocalWeatherViewController.h: 21";
+		rLen = 0;
+		rLoc = 855;
+		rType = 0;
+		vrLen = 734;
+		vrLoc = 0;
+	};
+	8FEA43DF1253E19D002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		name = "LocalWeatherViewController.m: 17";
+		rLen = 0;
+		rLoc = 447;
+		rType = 0;
+		vrLen = 2485;
+		vrLoc = 298;
+	};
+	8FEA43E01253E19D002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		name = "LocalWeatherViewController.m: 44";
+		rLen = 0;
+		rLoc = 1497;
+		rType = 0;
+		vrLen = 2486;
+		vrLoc = 299;
+	};
+	8FEA43E91253E1C6002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		name = "LocalWeatherViewController.m: 50";
+		rLen = 0;
+		rLoc = 1670;
+		rType = 0;
+		vrLen = 2341;
+		vrLoc = 448;
+	};
+	8FEA43F11253E1D7002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		name = "LocalWeatherViewController.m: 52";
+		rLen = 0;
+		rLoc = 1869;
+		rType = 0;
+		vrLen = 2341;
+		vrLoc = 448;
+	};
+	8FEA43F21253E1D7002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		name = "LocalWeatherViewController.m: 50";
+		rLen = 0;
+		rLoc = 1786;
+		rType = 0;
+		vrLen = 2343;
+		vrLoc = 543;
+	};
+	8FEA44011253E234002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		name = "LocalWeatherViewController.m: 66";
+		rLen = 0;
+		rLoc = 2367;
+		rType = 0;
+		vrLen = 2347;
+		vrLoc = 647;
+	};
+	8FEA44021253E234002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0B1252933E0062F427 /* ICB_WeatherConditions.h */;
+		name = "ICB_WeatherConditions.h: 11";
+		rLen = 0;
+		rLoc = 249;
+		rType = 0;
+		vrLen = 551;
+		vrLoc = 0;
+	};
+	8FEA44031253E234002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0C1252933E0062F427 /* ICB_WeatherConditions.m */;
+		name = "ICB_WeatherConditions.m: 10";
+		rLen = 1;
+		rLoc = 200;
+		rType = 0;
+		vrLen = 1885;
+		vrLoc = 0;
+	};
+	8FEA44041253E234002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0C1252933E0062F427 /* ICB_WeatherConditions.m */;
+		name = "ICB_WeatherConditions.m: 10";
+		rLen = 1;
+		rLoc = 200;
+		rType = 0;
+		vrLen = 1885;
+		vrLoc = 0;
+	};
+	8FEA440A1253E23D002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0C1252933E0062F427 /* ICB_WeatherConditions.m */;
+		name = "ICB_WeatherConditions.m: 29";
+		rLen = 0;
+		rLoc = 1590;
+		rType = 0;
+		vrLen = 1885;
+		vrLoc = 0;
+	};
+	8FEA440B1253E23D002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0C1252933E0062F427 /* ICB_WeatherConditions.m */;
+		name = "ICB_WeatherConditions.m: 29";
+		rLen = 0;
+		rLoc = 1590;
+		rType = 0;
+		vrLen = 1885;
+		vrLoc = 0;
+	};
+	8FEA440D1253E240002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0C1252933E0062F427 /* ICB_WeatherConditions.m */;
+		name = "ICB_WeatherConditions.m: 29";
+		rLen = 0;
+		rLoc = 1590;
+		rType = 0;
+		vrLen = 1885;
+		vrLoc = 0;
+	};
+	8FEA44131253E28F002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0C1252933E0062F427 /* ICB_WeatherConditions.m */;
+		name = "ICB_WeatherConditions.m: 30";
+		rLen = 0;
+		rLoc = 1844;
+		rType = 0;
+		vrLen = 1885;
+		vrLoc = 0;
+	};
+	8FEA44181253E2D7002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* LocalWeatherAppDelegate.m */;
+		name = "LocalWeatherAppDelegate.m: 14";
+		rLen = 0;
+		rLoc = 288;
+		rType = 0;
+		vrLen = 2242;
+		vrLoc = 0;
+	};
+	8FEA44191253E2D7002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		name = "LocalWeatherViewController.m: 60";
+		rLen = 0;
+		rLoc = 2005;
+		rType = 0;
+		vrLen = 2253;
+		vrLoc = 742;
+	};
+	8FEA441A1253E2D7002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0C1252933E0062F427 /* ICB_WeatherConditions.m */;
+		name = "ICB_WeatherConditions.m: 30";
+		rLen = 0;
+		rLoc = 1844;
+		rType = 0;
+		vrLen = 1885;
+		vrLoc = 0;
+	};
+	8FEA441B1253E2D7002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0C1252933E0062F427 /* ICB_WeatherConditions.m */;
+		name = "ICB_WeatherConditions.m: 23";
+		rLen = 0;
+		rLoc = 1015;
+		rType = 0;
+		vrLen = 1903;
+		vrLoc = 0;
+	};
+	8FEA441F1253E305002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		name = "LocalWeatherViewController.m: 59";
+		rLen = 0;
+		rLoc = 2003;
+		rType = 0;
+		vrLen = 2348;
+		vrLoc = 647;
+	};
+	8FEA44201253E305002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0C1252933E0062F427 /* ICB_WeatherConditions.m */;
+		name = "ICB_WeatherConditions.m: 23";
+		rLen = 0;
+		rLoc = 1015;
+		rType = 0;
+		vrLen = 1903;
+		vrLoc = 0;
+	};
+	8FEA44211253E305002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0C1252933E0062F427 /* ICB_WeatherConditions.m */;
+		name = "ICB_WeatherConditions.m: 35";
+		rLen = 0;
+		rLoc = 1885;
+		rType = 0;
+		vrLen = 1998;
+		vrLoc = 0;
+	};
+	8FEA442C1253E33D002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0C1252933E0062F427 /* ICB_WeatherConditions.m */;
+		name = "ICB_WeatherConditions.m: 34";
+		rLen = 0;
+		rLoc = 1867;
+		rType = 0;
+		vrLen = 1998;
+		vrLoc = 0;
+	};
+	8FEA442D1253E33D002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		rLen = 0;
+		rLoc = 60;
+		rType = 1;
+	};
+	8FEA442E1253E33D002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		name = "LocalWeatherViewController.m: 55";
+		rLen = 0;
+		rLoc = 1915;
+		rType = 0;
+		vrLen = 2347;
+		vrLoc = 647;
+	};
+	8FEA44301253E4A8002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		name = "LocalWeatherViewController.m: 17";
+		rLen = 29;
+		rLoc = 419;
+		rType = 0;
+		vrLen = 2101;
+		vrLoc = 0;
+	};
+	8FEA44311253E4A8002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* LocalWeatherViewController.h */;
+		name = "LocalWeatherViewController.h: 21";
+		rLen = 0;
+		rLoc = 855;
+		rType = 0;
+		vrLen = 734;
+		vrLoc = 0;
+	};
+	8FEA44321253E4A8002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0C1252933E0062F427 /* ICB_WeatherConditions.m */;
+		name = "ICB_WeatherConditions.m: 1";
+		rLen = 2000;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1998;
+		vrLoc = 0;
+	};
+	8FEA44331253E4A8002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0B1252933E0062F427 /* ICB_WeatherConditions.h */;
+		name = "ICB_WeatherConditions.h: 20";
+		rLen = 0;
+		rLoc = 546;
+		rType = 0;
+		vrLen = 602;
+		vrLoc = 0;
+	};
+	8FEA44341253E4BC002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0B1252933E0062F427 /* ICB_WeatherConditions.h */;
+		name = "ICB_WeatherConditions.h: 20";
+		rLen = 0;
+		rLoc = 546;
+		rType = 0;
+		vrLen = 551;
+		vrLoc = 0;
+	};
+	8FEA44351253E4BC002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* LocalWeatherViewController.h */;
+		name = "LocalWeatherViewController.h: 21";
+		rLen = 0;
+		rLoc = 855;
+		rType = 0;
+		vrLen = 734;
+		vrLoc = 0;
+	};
+	8FEA44361253E4BC002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* LocalWeatherViewController.h */;
+		name = "LocalWeatherViewController.h: 22";
+		rLen = 51;
+		rLoc = 804;
+		rType = 0;
+		vrLen = 786;
+		vrLoc = 0;
+	};
+	8FEA44371253E4E0002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		name = "LocalWeatherViewController.m: 24";
+		rLen = 0;
+		rLoc = 646;
+		rType = 0;
+		vrLen = 2032;
+		vrLoc = 1263;
+	};
+	8FEA44381253E4E0002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* LocalWeatherViewController.h */;
+		name = "LocalWeatherViewController.h: 22";
+		rLen = 93;
+		rLoc = 762;
+		rType = 0;
+		vrLen = 828;
+		vrLoc = 0;
+	};
+	8FEA44391253E4E0002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0B1252933E0062F427 /* ICB_WeatherConditions.h */;
+		name = "ICB_WeatherConditions.h: 20";
+		rLen = 0;
+		rLoc = 546;
+		rType = 0;
+		vrLen = 551;
+		vrLoc = 0;
+	};
+	8FEA443E1253F84E002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0B1252933E0062F427 /* ICB_WeatherConditions.h */;
+		name = "ICB_WeatherConditions.h: 20";
+		rLen = 0;
+		rLoc = 546;
+		rType = 0;
+		vrLen = 551;
+		vrLoc = 0;
+	};
+	8FEA443F1253F84E002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0C1252933E0062F427 /* ICB_WeatherConditions.m */;
+		name = "ICB_WeatherConditions.m: 26";
+		rLen = 0;
+		rLoc = 1307;
+		rType = 0;
+		vrLen = 2001;
+		vrLoc = 0;
+	};
+	8FEA44401253F84E002D85A5 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected ')' before 'ICB_WeatherConditions'";
+		fRef = 28D7ACF60DDB3853001CB0EB /* LocalWeatherViewController.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 23;
+		rType = 1;
+	};
+	8FEA44411253F84E002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* LocalWeatherViewController.h */;
+		name = "LocalWeatherViewController.h: 24";
+		rLen = 0;
+		rLoc = 804;
+		rType = 0;
+		vrLen = 862;
+		vrLoc = 0;
+	};
+	8FEA44431253F850002D85A5 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected ')' before 'ICB_WeatherConditions'";
+		fRef = 28D7ACF60DDB3853001CB0EB /* LocalWeatherViewController.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 23;
+		rType = 1;
+	};
+	8FEA44441253F850002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* LocalWeatherViewController.h */;
+		name = "LocalWeatherViewController.h: 11";
+		rLen = 0;
+		rLoc = 238;
+		rType = 0;
+		vrLen = 853;
+		vrLoc = 3;
+	};
+	8FEA44451253F860002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* LocalWeatherViewController.h */;
+		name = "LocalWeatherViewController.h: 28";
+		rLen = 0;
+		rLoc = 862;
+		rType = 0;
+		vrLen = 862;
+		vrLoc = 0;
+	};
+	8FEA44461253F860002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* LocalWeatherViewController.m */;
+		name = "LocalWeatherViewController.m: 24";
+		rLen = 0;
+		rLoc = 646;
+		rType = 0;
+		vrLen = 2038;
+		vrLoc = 1257;
+	};
+	8FEA44471253F860002D85A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F293A0C1252933E0062F427 /* ICB_WeatherConditions.m */;
+		name = "ICB_WeatherConditions.m: 20";
+		rLen = 36;
+		rLoc = 548;
+		rType = 0;
+		vrLen = 2001;
+		vrLoc = 0;
+	};
+}

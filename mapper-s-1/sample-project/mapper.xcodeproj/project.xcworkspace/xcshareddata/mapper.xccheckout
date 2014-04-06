@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>ADBD7796-A391-4A9C-87F5-6D3B0395ED96</string>
+	<key>IDESourceControlProjectName</key>
+	<string>mapper</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>093A53BD-C8B9-42BF-B913-22BF183FDC20</key>
+		<string>https://bitbucket.org/appdesignvault/adv-mapper.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>sample-project/mapper.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>093A53BD-C8B9-42BF-B913-22BF183FDC20</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/appdesignvault/adv-mapper.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>093A53BD-C8B9-42BF-B913-22BF183FDC20</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>093A53BD-C8B9-42BF-B913-22BF183FDC20</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ADV Mapper</string>
+		</dict>
+	</array>
+</dict>
+</plist>

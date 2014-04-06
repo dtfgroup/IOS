@@ -1,0 +1,26 @@
+
+UINavigationBar
+{
+    backgroundImage: "menubar.png";
+}
+
+navigationItemTitleLabel
+{
+    backgroundColor: clearColor;
+    font: Helvetica-Bold 20;
+    shadowColor: blackColor;
+    textColor: whiteColor;
+    textAlignment: UITextAlignmentCenter;
+}
+
+UITableView
+{
+    backgroundView: "bg.png";
+}
+
+SCTableViewCell
+{
+    backgroundColor: clearColor;
+    backgroundView: "list-item.png";
+    selectedBackgroundView: "list-item-selected.png";
+}

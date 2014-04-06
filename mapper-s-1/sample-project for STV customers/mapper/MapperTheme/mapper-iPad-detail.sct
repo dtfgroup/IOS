@@ -1,0 +1,18 @@
+
+UINavigationBar
+{
+    backgroundImage: "ipad-menubar-right.png";
+}
+
+UITableView
+{
+    backgroundView: "ipad-bg-right.png";
+    
+}
+
+
+SCTableViewCell
+{
+    backgroundView: "list-item.png" capInsets(0,5,0,5);
+    selectedBackgroundView: "ipad-menu-item-selected.png";
+}
